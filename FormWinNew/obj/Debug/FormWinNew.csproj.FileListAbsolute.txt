@@ -1,0 +1,9 @@
+C:\Users\Даниил\Source\Repos\quraneq\Dizaijn\FormWinNew\bin\Debug\FormWinNew.exe.config
+C:\Users\Даниил\Source\Repos\quraneq\Dizaijn\FormWinNew\bin\Debug\FormWinNew.exe
+C:\Users\Даниил\Source\Repos\quraneq\Dizaijn\FormWinNew\bin\Debug\FormWinNew.pdb
+C:\Users\Даниил\Source\Repos\quraneq\Dizaijn\FormWinNew\obj\Debug\FormWinNew.csproj.AssemblyReference.cache
+C:\Users\Даниил\Source\Repos\quraneq\Dizaijn\FormWinNew\obj\Debug\FormWinNew.Properties.Resources.resources
+C:\Users\Даниил\Source\Repos\quraneq\Dizaijn\FormWinNew\obj\Debug\FormWinNew.csproj.GenerateResource.cache
+C:\Users\Даниил\Source\Repos\quraneq\Dizaijn\FormWinNew\obj\Debug\FormWinNew.csproj.CoreCompileInputs.cache
+C:\Users\Даниил\Source\Repos\quraneq\Dizaijn\FormWinNew\obj\Debug\FormWinNew.exe
+C:\Users\Даниил\Source\Repos\quraneq\Dizaijn\FormWinNew\obj\Debug\FormWinNew.pdb
